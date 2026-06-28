@@ -10,15 +10,15 @@
 
 🌿 Environmental & GIS Consulting
 
-🦌 Conservation, Wildlife Habitat Protection & Corridor Analysis
+🦌 Wildlife Conservation & Corridor Connectivity
 
-🌪️ Natural Disaster Mapping & Emergency Response
+🌪️ Natural Hazard Mapping & Wildfire Risk Assessment
 
-🛰️ Drone (UAS) Mapping & Remote Sensing
+🚦 Transportation Safety & Infrastructure Planning
 
-🗺️ Environmental GIS & Spatial Analysis
+🛰️ Drone (UAS) Mapping, Remote Sensing & Photogrammetry
 
-🏞️ Land Suitability & Environmental Planning
+🌎 Environmental Impact Assessment & Spatial Decision Support
 
 ---
 
@@ -44,12 +44,20 @@
 
 Projects include:
 
-- UAS-Based Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama
-- Wetland Restoration GIS
-- Florida Storm Events Spatial Analysis
-- GIS Project Management
-- Apartment Suitability Modeling
-- Environmental Mapping Projects
+🦌 Wildlife Corridor Suitability Analysis
+Identify and model optimal wildlife movement corridors to improve habitat connectivity and reduce habitat fragmentation.
+
+🚦 Left-Turn Signal Gap Analysis
+Map signalized intersections lacking protected left-turn phases to support safer and more efficient transportation planning.
+
+🔥 Wildfire Risk Modeling
+Predict wildfire risk zones using vegetation fuel types, land cover, and iNaturalist observations to support hazard mitigation.
+
+🏭 AI Data Center Environmental Impact Assessment
+Analyze how proposed AI data centers may affect surrounding communities through land use, environmental, and infrastructure impacts.
+
+🛰️ UAS Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama
+Use drone imagery, LiDAR, and terrain analysis to assess environmental disturbance and landscape change.
 
 ---
 
