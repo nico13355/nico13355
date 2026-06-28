@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Dillman 👋
+# Hi, I'm Nico Dillman 👋
 
 🎓 Master of Geographic Information Systems (MGIS) student at Penn State World Campus
 
