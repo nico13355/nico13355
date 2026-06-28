@@ -8,13 +8,17 @@
 
 ## 🛰️ Areas of Interest
 
-- Geographic Information Systems (GIS)
-- Environmental Consulting
-- Spatial Analysis
-- Remote Sensing & UAS
-- Environmental Restoration
-- Python for GIS
-- Land Suitability Analysis
+🌿 Environmental & GIS Consulting
+
+🦌 Conservation, Wildlife Habitat Protection & Corridor Analysis
+
+🌪️ Natural Disaster Mapping & Emergency Response
+
+🛰️ Drone (UAS) Mapping & Remote Sensing
+
+🗺️ Environmental GIS & Spatial Analysis
+
+🏞️ Land Suitability & Environmental Planning
 
 ---
 
@@ -28,6 +32,8 @@
 - QGIS
 - ModelBuilder
 - Pix4D
+- RStudio
+- PyScripter
 - Microsoft Office
 
 ---
@@ -36,9 +42,9 @@
 
 🚧 Portfolio currently under development.
 
-Upcoming projects include:
+Projects include:
 
-- UAS Terrain Analysis (WireGrass Gravel Pit)
+- UAS-Based Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama
 - Wetland Restoration GIS
 - Florida Storm Events Spatial Analysis
 - GIS Project Management
