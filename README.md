@@ -2,7 +2,9 @@
 
 🎓 Master of Geographic Information Systems (MGIS) student at Penn State World Campus
 
-🌎 Environmental Resource Management graduate with a passion for applying GIS, remote sensing, and spatial analysis to solve environmental and planning challenges.
+🌎 Bachelor in Environmental Resource Management with a passion for applying GIS, remote sensing, and spatial analysis to solve environmental and planning challenges.
+
+    Minors: Environmental Engineering + Watersheds & Resources
 
 ---
 
