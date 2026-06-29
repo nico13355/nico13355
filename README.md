@@ -68,6 +68,7 @@ Use drone imagery, LiDAR, and terrain analysis to assess environmental disturban
 ## 📫 Contact
 
 📧 Email: **nico13355@gmail.com**
+💼 LinkedIn: **www.linkedin.com/in/nico-dillman-12nd**
 
 📍 Based in Lafayette Hill, PA & Incline Village, NV
 
