@@ -1,10 +1,12 @@
 # Hi, I'm Nico Dillman 👋
 
-🎓 Master of Geographic Information Systems (MGIS) student at Penn State World Campus
+🎓 Master of Geographic Information Systems (MGIS) student at Penn State World Campus *(In Progress • Expected Spring 2027)*
 
-🌎 Bachelor in Environmental Resource Management with a passion for applying GIS, remote sensing, and spatial analysis to solve environmental and planning challenges.
+📜 Graduate Certificate in Geographic Information Systems (GIS), Penn State World Campus
 
-📚 Minors: Environmental Engineering + Watersheds & Resources
+🌎 Bachelor of Science in Environmental Resource Management with a passion for applying GIS, remote sensing, and spatial analysis to solve environmental and planning challenges.
+
+📚 Minors: Environmental Engineering + Watersheds & Water Resources
 
 ---
 
