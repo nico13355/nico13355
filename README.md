@@ -51,9 +51,6 @@ Projects include:
 🦌 Wildlife Corridor Suitability Analysis
 Identify and model optimal wildlife movement corridors to improve habitat connectivity and reduce habitat fragmentation.
 
-🚦 Left-Turn Signal Gap Analysis
-Map signalized intersections lacking protected left-turn phases to support safer and more efficient transportation planning.
-
 🔥 Wildfire Risk Modeling
 Predict wildfire risk zones using vegetation fuel types, land cover, and iNaturalist observations to support hazard mitigation.
 
