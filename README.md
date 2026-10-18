@@ -81,5 +81,5 @@ Used UAS imagery and geospatial analysis to evaluate environmental disturbance a
 📧 Email: **nico13355@gmail.com**
 💼 LinkedIn: **www.linkedin.com/in/nico-dillman-12nd**
 
-📍 Based in Lafayette Hill, PA & Incline Village, NV
+📍 Based in Lafayette Hill, Pennsylvania
 
