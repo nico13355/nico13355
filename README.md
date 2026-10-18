@@ -55,7 +55,7 @@ Modeled potential wildlife movement corridors between Rothrock State Forest and 
 Compared scenarios with and without road barriers to evaluate how development and transportation infrastructure affect habitat connectivity.
 
 **Tools:** ArcGIS Pro | Raster Analysis | Cost Distance | Corridor Modeling | RStudio
-➡️ [View Full Project](Dillman_N_TermProject_Report.docx)
+➡️ [View Full Project](PK) 
 
 ---
 
