@@ -68,7 +68,7 @@ Integrated multiple environmental and infrastructure datasets to identify and vi
 
 ---
 
-### 🛰️ [UAS Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama] (https://github.com/nico13355/Wiregrass-UAS-Analysis)
+### 🛰️ [UAS Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama](https://github.com/nico13355/Wiregrass-UAS-Analysis)
 
 Used UAS imagery and geospatial analysis to evaluate environmental disturbance and landscape conditions at a gravel mining site.
 
