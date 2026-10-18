@@ -48,11 +48,14 @@ Working with spatial data from LANDFIRE, USFS TreeMap, Wildfire Hazard Potential
 
 ---
 
-### 🦌 Wildlife Corridor Connectivity Analysis
+### 🦌 [Wildlife Corridor Suitability Analysis](https://github.com/nico13355/wildlife-corridor-suitability-analysis)
 
-Modeled wildlife movement corridors and habitat connectivity using resistance surfaces and least-cost path analysis. Identified potential habitat pinch points and priority areas for landscape connectivity.
+Modeled potential wildlife movement corridors between Rothrock State Forest and Bald Eagle State Forest in Centre County, Pennsylvania using resistance surfaces and least-cost corridor analysis.
 
-**Skills:** ArcGIS Pro • Least-Cost Path Analysis • Suitability Modeling • Raster Analysis
+Compared scenarios with and without road barriers to evaluate how development and transportation infrastructure affect habitat connectivity.
+
+**Tools:** ArcGIS Pro | Raster Analysis | Cost Distance | Corridor Modeling | RStudio
+➡️ [View Full Project](https://github.com/nico13355/wildlife-corridor-suitability-analysis)
 
 ---
 
