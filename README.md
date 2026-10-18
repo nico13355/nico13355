@@ -58,7 +58,7 @@ Compared scenarios with and without road barriers to evaluate how development an
 
 ---
 
-### 🏭 AI Data Center Environmental Assessment
+### 🏭 [AI Data Center Environmental Assessment](https://github.com/nico13355/AI-Data_Center_Environmental_Assessment/blob/main/README.md)
 
 Evaluated environmental and infrastructure conditions surrounding a proposed AI data center in Plymouth Township, Pennsylvania using GIS-based spatial analysis.
 
