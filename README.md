@@ -1,5 +1,7 @@
 # Hi, I'm Nico Dillman 👋
 
+I'm an environmental and GIS professional currently pursuing my MGIS at Penn State. My interest in GIS grew through my work in wetland restoration, where I began using spatial data to support restoration planning and natural resource management. I'm especially interested in applying GIS to environmental challenges including wildfire resilience, conservation, and land management.
+
 🎓 Master of Geographic Information Systems (MGIS) student at Penn State World Campus *(In Progress • Expected Spring 2027)*
 
 📜 Graduate Certificate in Geographic Information Systems (GIS), Penn State World Campus
@@ -12,53 +14,64 @@
 
 ## 🛰️ Areas of Interest
 
-🌿 Environmental & GIS Consulting
-
-🦌 Wildlife Conservation & Corridor Connectivity
-
-🌪️ Natural Hazard Mapping & Wildfire Risk Assessment
-
-🚦 Transportation Safety & Infrastructure Planning
-
-🛰️ Drone (UAS) Mapping, Remote Sensing & Photogrammetry
-
-🌎 Environmental Impact Assessment & Spatial Decision Support
+🌿 Environmental & Natural Resource GIS  
+🔥 Wildfire Hazard & Resilience  
+🦌 Wildlife Conservation & Habitat Connectivity  
+🌎 Environmental Impact Assessment  
+🛰️ Remote Sensing, UAS & Field Data Collection  
+🗺️ Web Mapping & Spatial Communication
 
 ---
 
 ## 🛠️ Technical Skills
 
-- ArcGIS Pro
-- ArcGIS Online
-- ArcGIS Field Maps
-- Python (ArcPy)
-- SQL
-- QGIS
-- ModelBuilder
-- Pix4D
-- RStudio
-- PyScripter
-- Microsoft Office
+**GIS & Web Mapping:** ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, ArcGIS Field Maps, QGIS
+
+**Spatial Analysis:** Raster & Vector Analysis, Terrain Analysis, Suitability Modeling, Spatial Data Editing, Cartographic Design
+
+**Programming & Data:** Python (ArcPy), SQL, RStudio, ModelBuilder
+
+**Remote Sensing & UAS:** Pix4D, Drone Imagery, Photogrammetry, Image Processing
 
 ---
 
 ## 📂 Featured Projects
 
-🚧 Portfolio currently under development.
+### 🔥 Wildfire Hazard Assessment Along the Pennsylvania Appalachian Trail
+**MGIS Capstone | In Progress**
 
-Projects include:
+Developing a GIS-based assessment of wildfire hazard along the Appalachian Trail in Pennsylvania using vegetation fuel types, forest structure, terrain, and existing wildfire hazard datasets.
 
-🦌 Wildlife Corridor Suitability Analysis
-Identify and model optimal wildlife movement corridors to improve habitat connectivity and reduce habitat fragmentation.
+Working with spatial data from LANDFIRE, USFS TreeMap, Wildfire Hazard Potential, USGS 3DEP, and National Park Service sources.
 
-🔥 Wildfire Risk Modeling
-Predict wildfire risk zones using vegetation fuel types, land cover, and iNaturalist observations to support hazard mitigation.
+**Skills:** ArcGIS Pro • Raster Analysis • Terrain Analysis • Data Management • Cartographic Design
 
-🏭 AI Data Center Environmental Impact Assessment
-Analyze how proposed AI data centers may affect surrounding communities through land use, environmental, and infrastructure impacts.
+---
 
-🛰️ UAS Environmental Disturbance Assessment | WireGrass Gravel Pit, Alabama
-Use drone imagery, LiDAR, and terrain analysis to assess environmental disturbance and landscape change.
+### 🦌 Wildlife Corridor Connectivity Analysis
+
+Modeled wildlife movement corridors and habitat connectivity using resistance surfaces and least-cost path analysis. Identified potential habitat pinch points and priority areas for landscape connectivity.
+
+**Skills:** ArcGIS Pro • Least-Cost Path Analysis • Suitability Modeling • Raster Analysis
+
+---
+
+### 🏭 AI Data Center Environmental Assessment
+
+Evaluated environmental and infrastructure conditions surrounding a proposed AI data center in Plymouth Township, Pennsylvania using GIS-based spatial analysis.
+
+Integrated multiple environmental and infrastructure datasets to identify and visualize potential impacts associated with the proposed development.
+
+**Skills:** ArcGIS Pro • Spatial Analysis • Environmental GIS • Cartographic Design
+
+---
+
+### 🛰️ UAS Environmental Disturbance Assessment
+**WireGrass Gravel Pit, Alabama**
+
+Used UAS imagery and geospatial analysis to evaluate environmental disturbance and landscape conditions at a gravel mining site.
+
+**Skills:** UAS Mapping • Photogrammetry • Pix4D • Terrain Analysis • Remote Sensing
 
 ---
 
